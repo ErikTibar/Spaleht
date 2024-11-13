@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veebilehe kavand</title>
+</head>
+<body>
+    <h1>Veebilehe teema</h1>
+    <p>Parim spa</p>
+    <h2>Domeeninimi</h2>
+    <p>Valisin domeeninimeks supermegaspa.com - mulle meeldis</p>
+    <h3>Miks on veebisaiti vaja?</h3>
+    <p>Siin lehel saab tutvuda mu spaga</p>
+    <h4>Sihtrühm</h4>
+    <p>Inimesed, kes soovivad uuel tasemel lõõgastuda</p>
+    <h5>Kuidas äri töötab?</h5>
+    <p>Kui inimesed külastavad mu spad, siis saan ma raha</p>
+    <h6>Mida kasutan veebilehe tegemisel?</h6>
+    <p>Tahan kasutada wordpressi, javascripti ja visualstudio code'i</p>
+    <p>Veebisaiti hakkan haldama mina või maksan kellelegi selle teenuse eest</p>
+</body>
+<body>
+    <h1>Võrdlesin kahte erinevat veebilehe majutuskeskust</h1>
+    <p>Esimene: veebimajutuskeskus. Teine: Zone</p>
+    <h2>Mõlemad pakuvad 3 erinevat paketti</h2>
+    <h3>Esimene pakett</h3>
+    <p>Veebimajutuskeskus: Esimene pakett (Veebimajutus): 1€/kuu, pakub 5GB kõvakettamahtu, andmeedastusmaht on 50GB, 10 alamdomeene ja 25 e-posti aadressi. 
+    Zone: Esimene pakett (Starter): 3,67€/kuu, kettamahtu on 256 GiB, postkastibe arv on piiramata, ühe postkasti maht on 8GiB ja veebilehtede arv on on samuti piiramata. Oma IP aadressi ei ole.</p>
+<h4>Teine pakett</h4>
+<p>Veebimajutuskeskus:Teine pakett (Edasimüüja majutus): 14,99€/kuu, pakub 50GB kõvakettamahtu, andmeedastusmaht on 500GB, cPaneli kasutajaid 25, E-posti aadresse on piiramatult. 
+    Zone: Teine pakett (Business): Kettamahtu on 512GiB, postkastide arv on piiramata, ühe postkasti maht on 12GiB, Veebilehtede arv on piiramata. Maksab 6,47€/kuu. </p>
+    <h5>Kolmas pakett</h5>
+    <p>Veebimajutuskeskus: Kolmas pakett (VPS pilveserverid): 15€/kuu Protsessor 4 Tuum, mutmälu 8GB, SSD kõvakettamaht 200GB, andmesidemaht on piiramatu, saab olla administreeritud server, serveri tarkvara on  valikuline.
+        Zone: Kolmas pakett (PRO): 10,64€/kuu. 1TiB kettamahtu, postkastide arv on piiramata, ühe postkasti maht on 16GiB, veebilehtede arv on piiramata  </p>
+        <h6>Kumb on parem?</h6>
+        <p>Selle statistika põhjal järeldan, et veebimajutuskeskus on parem.</p>
+
+</body>
+</html>
